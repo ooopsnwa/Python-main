@@ -1,0 +1,2 @@
+Тренер успешно создан!
+{'id': '4632', 'trainer_name': 'SergAS', 'trainer_token': '2434a1a20f1789cbdd19058cc0381d80'}
